@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForPromIt", "ForPromIt.csproj", "{B0702CAB-7763-40C2-BF2B-6FE367736EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForPromItTest", "..\ForPromItTest\ForPromItTest.csproj", "{0E6622F1-3A95-443C-82AD-24E5CCC97EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0702CAB-7763-40C2-BF2B-6FE367736EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0702CAB-7763-40C2-BF2B-6FE367736EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0702CAB-7763-40C2-BF2B-6FE367736EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0702CAB-7763-40C2-BF2B-6FE367736EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6622F1-3A95-443C-82AD-24E5CCC97EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6622F1-3A95-443C-82AD-24E5CCC97EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6622F1-3A95-443C-82AD-24E5CCC97EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6622F1-3A95-443C-82AD-24E5CCC97EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7107ED-556F-4154-94EC-1CB0446A5BCD}
+	EndGlobalSection
+EndGlobal
